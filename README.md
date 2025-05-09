@@ -1,4 +1,4 @@
-# CUSTOMER RETENTION: Telecom Churn Reduction,Predictive Analytics
+# CUSTOMER RETENTION: Telecom Churn Reduction using Predictive Analytics
 
 
 
